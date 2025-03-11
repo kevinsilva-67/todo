@@ -49,6 +49,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
 </head>
 <body>
+    <?php include 'header.php'; ?>
     <div class="content">
         <h1>L'Histoire des Kevin</h1>
         <img src="https://via.placeholder.com/400x200.png?text=Kevin+Legend" alt="Kevin Legend">
@@ -61,7 +62,7 @@
         </ul>
         <h2>Pourquoi les Kevin sont-ils si spéciaux ?</h2>
         <p>Les Kevin ont une capacité unique à se démarquer dans n'importe quel domaine. Que ce soit dans le cinéma, la musique ou la comédie, un Kevin est toujours prêt à briller.</p>
-        <p>Pour en savoir plus sur les Kevin, visitez notre <a href="index.html">page d'accueil</a> ou <a href="contact.html">contactez-nous</a>.</p>
+        <p>Pour en savoir plus sur les Kevin, visitez notre <a href="index.php">page d'accueil</a> ou <a href="contact.php">contactez-nous</a>.</p>
     </div>
 </body>
 </html> 
