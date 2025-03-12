@@ -4,7 +4,7 @@ echo '
 <link rel="stylesheet" href="styles.css">
 <nav>
     <ul>
-        <li><a href="index.php">Accueil</a></li>
+        <li><a href="/">Accueil</a></li>
         <li><a href="contact.php">Contact</a></li>
         <li><a href="story-of-kevin.php">L\'Histoire des Kevin</a></li>
         <li><a href="space-kevin.php">Space Kevin</a></li>
