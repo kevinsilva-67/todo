@@ -34,7 +34,7 @@
 </head>
 <body>
     <h1>Bienvenue sur le site des Kevin</h1>
-    <?php include 'header.php'; ?>
+    <?php //include 'header.php'; ?>
     <div class="news">
         <h2>Dernières actualités</h2>
         <p>Découvrez les dernières nouvelles concernant les Kevin du monde entier !</p>
