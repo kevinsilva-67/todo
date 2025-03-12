@@ -1,5 +1,6 @@
 # Liens utiles
 ## https://www.youtube.com/watch?v=MwqucMhDGR8
+## https://www.youtube.com/watch?v=RdXdgrBiH7M
 ## https://github.com/vercel-community/php?tab=readme-ov-file
 
 ## lancer un serveur. Allez dans la racine public et lancer le serveur
